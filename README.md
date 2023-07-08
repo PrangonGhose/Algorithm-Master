@@ -27,8 +27,6 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -149,21 +147,6 @@ Feel free to check the [issues page](https://github.com/PrangonGhose/algorithm-m
 ## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-Authors would like to thank:
-- [Microverse](https://www.microverse.org/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
