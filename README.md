@@ -130,6 +130,8 @@ This website is applicable for both mobile and desktop version.
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Styling of the webpage**
+- [ ] **Introduce animations for a smooth user experience**
+- [ ] **Introduce more algorithms and data structures**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
