@@ -4,6 +4,7 @@
 
   <img src="./src/images/logo.jpg" alt="logo" width="220"  height="auto" />
   <h1><b>Algorithm Master</b></h1>
+  <h2><b><i>The website is under construction</i></b></h2>
 
 </div>
 
