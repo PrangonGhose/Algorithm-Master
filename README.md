@@ -120,6 +120,9 @@ This website is applicable for both mobile and desktop version.
 👤 **Prangon Ghose**
 
 - GitHub: [@PrangonGhose](https://github.com/PrangonGhose)
+- Portfolio: [Portfolio of Prangon Ghose](https://prangonghose.github.io/Prangon_Ghose/)
+- Wellfound: [Prangon Ghose](https://wellfound.com/u/prangon-ghose-1)
+- LinkedIn: [Prangon Ghose](https://www.linkedin.com/in/prangon-ghose/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
